@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "953949810461",
+    "project_id": "viai-6cb21",
+    "storage_bucket": "viai-6cb21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953949810461:android:d890ea5f7a0163bd367bf4",
+        "android_client_info": {
+          "package_name": "com.kmitl.viai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953949810461-qarv5icm3tmc3vi2l6h359c5802hk7n7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrNrRSSXFjfvPvIeOQPLmVTvc_FJpY68c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953949810461-qarv5icm3tmc3vi2l6h359c5802hk7n7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
